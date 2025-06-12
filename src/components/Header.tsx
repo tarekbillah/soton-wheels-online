@@ -13,7 +13,7 @@ const Header = () => {
             <img 
               src="/lovable-uploads/6dda706b-4ec7-499d-9cc6-2ec1f49caad2.png" 
               alt="Soton Cars" 
-              className="h-12 w-auto"
+              className="h-16 w-auto" // Increased from h-12 to h-16 to make the logo bigger
             />
           </div>
           
